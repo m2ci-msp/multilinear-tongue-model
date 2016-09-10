@@ -9,7 +9,7 @@ We used the dataset of the [Ultrax project](http://www.ultrax-speech.org/) and t
 
 This repository provides you with the following files:
 
-- tongue_model.yaml : This is the YAML version of the model. Here, the core tensor is encoded in Base64 so save some space.
+- tongue_model.yaml : This is the YAML version of the model. Here, the core tensor is encoded in Base64 to save some space.
 - tongue_model.json : In this version, the model is saved in JSON format and no Base64 encoding is used.
 
 ## Using the model
