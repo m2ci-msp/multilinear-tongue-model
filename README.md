@@ -29,13 +29,12 @@ Have a look at [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://crea
 
 In case, you are using our model, please cite for the time being the following paper:
 
-    @incollection{Hewer2015NPSA,
-        author = {Hewer, Alexander and Wuhrer, Stefanie and Steiner, Ingmar and Richmond, Korin},
-        booktitle = {New Perspectives in Shape Analysis},
-        editor = {Breu{\ss}, Michael and Bruckstein, Alfred M. and Maragos, Petros and Wuhrer, Stefanie},
-        note = {(in press)},
-        publisher = {Springer},
-        series = {Mathematics and Visualization},
-        title = {Tongue mesh extraction from {3D} {MRI} data of the human vocal tract},
-        year = {2016}
+    @article{HewerWSR16,
+        author    = {Hewer, Alexander and Wuhrer, Stefanie and Steiner, Ingmar and Richmond, Korin},
+        title     = {A Multilinear Tongue Model Derived from Speech Related {MRI} Data of the Human Vocal Tract},
+        journal   = {CoRR},
+        volume    = {abs/1612.05005},
+        year      = {2016},
+        url       = {http://arxiv.org/abs/1612.05005}
     }
+    
