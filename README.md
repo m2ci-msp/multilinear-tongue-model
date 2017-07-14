@@ -3,7 +3,7 @@
 ## Introduction
 
 This repository contains a multilinear tongue shape model that was derived from MRI data.
-We used the dataset of the [Ultrax project](http://www.ultrax-speech.org/) and the one of [Adam Baker] (http://adambaker.org/qmu.php) to create the model.
+We used the dataset of the [Ultrax project][1] and the one of [Adam Baker][2] to create the model.
 
 ## Components
 
@@ -14,7 +14,7 @@ This repository provides you with the following files:
 
 ## Using the model
 
-Have a look at [multilinear-model-tools] (https://github.com/m2ci-msp/multilinear-model-tools) for example code using the model.
+Have a look at [MSP MRI Shape Tools][3] for example source code.
 
 ## License
 
@@ -38,3 +38,6 @@ In case, you are using our model, please cite for the time being the following p
         url       = {http://arxiv.org/abs/1612.05005}
     }
     
+[1]: http://www.ultrax-speech.org
+[2]: http://adambaker.org/qmu.php
+[3]: https://github.com/m2ci-msp/mri-shape-tools
