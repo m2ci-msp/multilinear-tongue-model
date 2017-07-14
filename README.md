@@ -15,6 +15,7 @@ This repository provides you with the following files:
 ## Using the model
 
 Have a look at [MSP MRI Shape Tools][3] for example source code.
+The data format is described [here][4].
 
 ## License
 
@@ -41,3 +42,4 @@ In case, you are using our model, please cite for the time being the following p
 [1]: http://www.ultrax-speech.org
 [2]: http://adambaker.org/qmu.php
 [3]: https://github.com/m2ci-msp/mri-shape-tools
+[4]: https://github.com/m2ci-msp/mri-shape-tools/blob/master/dataFormats/model.md
